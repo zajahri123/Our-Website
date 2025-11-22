@@ -54,7 +54,7 @@ export default function MonthsaryLetter() {
             <br />
             Yours always,
             <br />
-            Zajahri 💖
+            Aki 💖
           </p>
         </div>
       )}
